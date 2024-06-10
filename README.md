@@ -8,3 +8,4 @@
 * git log 
 * git push
 * git pull
+* git fetch
